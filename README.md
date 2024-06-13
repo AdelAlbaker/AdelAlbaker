@@ -4,7 +4,7 @@
   which have enhanced my knowledge and skills in cloud computing and blockchain basics, two of the most cutting-edge and in-demand technologies in the industry.<br>
   - I work as a flutter developer @Morph
 
-  #📫 How to reach me  [Email](mailto:adeeel221@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adel-al-baker-752b40154/)
+  📫 How to reach me  [Email](mailto:adeeel221@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adel-al-baker-752b40154/)
   # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
