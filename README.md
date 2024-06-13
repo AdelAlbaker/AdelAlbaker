@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aouees&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AdelAlbaker&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!---
 AdelAlbaker/AdelAlbaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
