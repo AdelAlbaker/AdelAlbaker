@@ -7,8 +7,17 @@
 
   # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
+
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=AdelAlbaker&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdelAlbaker&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelAlbaker&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aouees&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!---
 AdelAlbaker/AdelAlbaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
