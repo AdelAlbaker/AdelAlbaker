@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m @AdelAlbaker</h1>
-  - 👀 I’m interested in software engineering, especially in developing mobile applications using Flutter and Dart.<br>
+   - 👀 I’m interested in software engineering, especially in developing mobile applications using Flutter and Dart.<br>
   I have completed multiple certifications from IBM, Oracle, and Coursera,<br>
   which have enhanced my knowledge and skills in cloud computing and blockchain basics, two of the most cutting-edge and in-demand technologies in the industry.<br>
   
