@@ -2,7 +2,8 @@
   - 👀 I’m interested in software engineering, especially in developing mobile applications using Flutter and Dart.<br>
   I have completed multiple certifications from IBM, Oracle, and Coursera,<br>
   which have enhanced my knowledge and skills in cloud computing and blockchain basics, two of the most cutting-edge and in-demand technologies in the industry.<br>
-  - 📫 How to reach me 
+  - 📫 How to reach me [Email](mailto:adeeel221@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adel-al-baker-752b40154/)
+
   - I work as a flutter developer @Morph
 
   # 💻 Tech Stack:
