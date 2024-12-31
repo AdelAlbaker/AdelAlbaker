@@ -3,7 +3,7 @@
   I have completed multiple certifications from IBM, Oracle, and Coursera,<br>
   which have enhanced my knowledge and skills in cloud computing and blockchain basics, two of the most cutting-edge and in-demand technologies in the industry.<br>
   
-- I work as a flutter developer @[Morph](https://www.morph.sa/)
+- I work as a flutter developer @[Sitco]([https://www.morph.sa/](http://www.sitcoglobal.com/))
 
  - 📫 How to reach me  [Email](mailto:adeeel221@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adel-al-baker-752b40154/) <br>
   # 💻 Tech Stack:
